@@ -1,4 +1,4 @@
-"# PythonRealm" 
+# PythonRealm
 # Text-Based Games in Python
 
 This repository contains a collection of text-based games created in Python. You can enjoy these games directly in your terminal. Below are the games included:
